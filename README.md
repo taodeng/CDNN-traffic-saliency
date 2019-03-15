@@ -3,6 +3,10 @@ Paper:How Do Drivers Allocate Their Potential Attention? Driving Fixation Predic
 
 Authors:Tao Deng, Hongmei Yan, Long Qin, Thuyen Ngo, B. S. Manjunath
 
+# How Do Drivers Allocate Their Potential Attention?
+
+
+
 ## Eye tracking dataset
 The eye tracking dataset is released link:https://pan.baidu.com/s/1zyxvEQiMkmOkxmyDlDv0xA ;     Password: i5q7
 
