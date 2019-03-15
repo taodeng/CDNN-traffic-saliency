@@ -14,8 +14,8 @@ The folder includes: fixdata, traffic videos, traffic frames.You need to extract
 
 
 ## CDNN requirements
-.Pytorch 0.4.1
+* Pytorch 0.4.1
 
-.Python 2.7
+* Python 2.7
 
 We will publish the complete codes of this project later. Contact the Author: tdeng@swjtu.edu.cn
