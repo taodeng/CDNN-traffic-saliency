@@ -20,4 +20,4 @@ The folder includes: fixdata, traffic videos, traffic frames.You need to extract
 
 We will publish the complete codes of this project later. Contact the Author: tdeng@swjtu.edu.cn
 
-There is a Dockerfile that manages requirements for reproducibility purposes.
+There is a Dockerfile that manages requirements for reproducibility purposes, along with requirements.txt file.
