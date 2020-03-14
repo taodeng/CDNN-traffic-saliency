@@ -13,7 +13,7 @@ def conv3x3(in_planes, out_planes):
 
 class Model(nn.Module):
     def __init__(self):
-        n, m = 24, 3
+        n, m = 8, 3
 
         super(Model, self).__init__()
         self.relu = nn.ReLU(inplace=True)
