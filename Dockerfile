@@ -30,8 +30,7 @@ ENV PATH=/home/user/miniconda/bin:$PATH
 ENV CONDA_AUTO_UPDATE_CONDA=false
 
 # Create a Python 2.7 environment
-RUN conda install conda-build \
- && conda create -y --name py27 python=2.7 \
+RUN conda create -y --name py27 python=2.7 \
  && conda clean -ya
 
 # Set py27 as default environment (py27 env linked outside conda, and py27 startup activation)
