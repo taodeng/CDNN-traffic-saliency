@@ -18,4 +18,4 @@ The folder includes: fixdata, traffic videos, traffic frames.You need to extract
 
 * Python 2.7
 
-We will publish the complete codes of this project later. Contact the Author: tdeng@swjtu.edu.cn
+Contact the Author: tdeng@swjtu.edu.cn
