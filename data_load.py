@@ -26,7 +26,7 @@ def getLabel(vid_index, frame_index):
 
     mask = filters.gaussian_filter(mask, 40)
     mask = np.array(mask, dtype='float32')
-    # mask = cv2.resize(mask, (320, 192), interpolation=cv2.INTER_CUBIC)
+    mask = cv2.resize(mask, (320, 192), interpolation=cv2.INTER_CUBIC)
     mask = mask.astype('float32') / 255.0
 
     if mask.max() == 0:
@@ -62,8 +62,8 @@ class ImageList(Dataset):
         img = np.ascontiguousarray(img)
 
         mask = np.ascontiguousarray(mask)
-        print torch.from_numpy(img)
-        exit(0)
+        # print torch.from_numpy(img)
+        # exit(0)
         return torch.from_numpy(img), torch.from_numpy(mask)
 
     def __len__(self):
