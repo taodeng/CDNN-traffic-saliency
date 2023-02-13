@@ -22,12 +22,9 @@ Contact the Author: tdeng@swjtu.edu.cn
 
 ## Citation
 @article{deng_CDNN,
-   author = {Deng, Tao and Yan, Hongmei and Qin, Long and Ngo, Thuyen and Manjunath, BS},
-   
-   title = {How Do Drivers Allocate Their Potential Attention? Driving Fixation Prediction via Convolutional Neural Networks},
-   
-   journal = {IEEE Transactions on Intelligent Transportation Systems},
-   
+   author = {Deng, Tao and Yan, Hongmei and Qin, Long and Ngo, Thuyen and Manjunath, BS},  
+   title = {How Do Drivers Allocate Their Potential Attention? Driving Fixation Prediction via Convolutional Neural Networks},  
+   journal = {IEEE Transactions on Intelligent Transportation Systems},  
    ISSN = {1524-9050},
    
    year={2020},
