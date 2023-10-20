@@ -1,7 +1,7 @@
-# CDNN:traffic driving saliency & eye tracking dataset 
-Paper:How Do Drivers Allocate Their Potential Attention? Driving Fixation Prediction via Convolutional Neural Networks, 2020, IEEE Transactions on Intelligent Transportation Systems
+# CDNN: traffic driving saliency & eye tracking dataset 
+[Paper:](https://ieeexplore.ieee.org/document/8726396) How Do Drivers Allocate Their Potential Attention? Driving Fixation Prediction via Convolutional Neural Networks, 2020, IEEE Transactions on Intelligent Transportation Systems
 
-Authors:Tao Deng, Hongmei Yan, Long Qin, Thuyen Ngo, B. S. Manjunath
+Authors: Tao Deng, Hongmei Yan, Long Qin, Thuyen Ngo, B. S. Manjunath
 
 # How Do Drivers Allocate Their Potential Attention?
 
